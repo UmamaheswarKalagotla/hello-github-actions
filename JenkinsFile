@@ -1,0 +1,5 @@
+#!/usr/bin/env groovy
+
+@Library('frm-pipeline-utilities@feature/ft-newpipeline') _
+
+lambda {}
